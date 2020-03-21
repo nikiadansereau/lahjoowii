@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phohseehag.hack-commit-pu.sh/sitemap.xml
